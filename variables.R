@@ -1,4 +1,5 @@
 #This is the document where I learn introductory R.
+#Jan. 5th 2016
 dist10<- rnorm(10)
 
 x<-1 #this doesn't execute
