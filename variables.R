@@ -1,4 +1,6 @@
 #This is the document where I learn introductory R.
+dist10<- rnorm(10)
+
 x<-1 #this doesn't execute
 y<-x*2 # can explain your process
 z<-y^2
